@@ -245,7 +245,8 @@ var countryISOMapping = {
   EH: 'ESH',
   YE: 'YEM',
   ZM: 'ZMB',
-  ZW: 'ZWE'
+  ZW: 'ZWE',
+  XK: 'XKX'
 }
 
 module.exports = function getCountryISO3(countryCode) {
