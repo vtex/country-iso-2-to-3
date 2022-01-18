@@ -58,6 +58,7 @@ var countryISOMapping = {
   CI: 'CIV',
   HR: 'HRV',
   CU: 'CUB',
+  CW: 'CUW',
   CY: 'CYP',
   CZ: 'CZE',
   DK: 'DNK',
